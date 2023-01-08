@@ -65,4 +65,4 @@ if st.button("Connect with the developer"):
 
     st.write("Hello Everyone I'm Roshan a final year B.Tech student and this project is created by me, this is a simple machine learning project where I have used cosine similarity to recommend movies, to know more about me and to connect click the linkedin link below and you can see my work(s) in github link below");
     st.write("Linkedin - ","https://www.linkedin.com/in/roshan-kumar-b8b6b91a1/")
-    st.write("Github: https://www.github.comm/Roshanchandipur")
+    st.write("Github: ","https://github.com/Roshanchandipur")
